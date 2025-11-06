@@ -25,7 +25,10 @@ def test_total_words(q1, q2):
 # =====================
 # Token, Length & Fuzzy Features
 # =====================
+import nltk
 
+# Download 'stopwords' if not already present
+nltk.download('stopwords', quiet=True)
 from nltk.corpus import stopwords
 STOP_WORDS = stopwords.words("english")
 
