@@ -1,6 +1,6 @@
 streamlit
-sklearn
-fuzzywuzzy
-distance
+scikit-learn
+pandas
+numpy
 
-bs4
+
