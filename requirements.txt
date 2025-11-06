@@ -3,3 +3,7 @@ scikit-learn
 pandas
 numpy
 beautifulsoup4
+fuzzywuzzy
+distance
+sklearn
+
